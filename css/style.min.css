@@ -284,7 +284,7 @@ body {
   padding: 60px 40px 20px 40px;
   font-size: 12px;
   line-height: 20px;
-  color: #62616f;
+  color: #2c2b32;
 }
 .footer .copyright {
   display: flex;
@@ -914,7 +914,7 @@ body {
   align-items: center;
   --mw: 968px;
   flex-direction: column;
-  padding-top: 80px;
+  padding-top: 105px;
   width: 100%;
   max-width: var(--mw);
 }
